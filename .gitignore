@@ -1,0 +1,5 @@
+espeak-ng-data/
+*.wav
+_voicelab_in_progress
+__pycache__/
+*.pyc
